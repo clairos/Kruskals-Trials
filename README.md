@@ -1,4 +1,6 @@
-# Using Minecraft as a Tool for Teaching Graph Theory to Students with ADHD
+# Kruskal's Trials: A Graph Theory Challenge
+
+## Using Minecraft as a Tool for Teaching Graph Theory to Students with ADHD
 
 Authors: Ana Clara Brusamarello Barbosa and Andrei de Almeida Sampaio Braga
 
@@ -19,7 +21,7 @@ This repository contains the Minecraft world developed for the educational activ
 
 - `kruskal_in_minecraft.zip`: a complete copy of the Minecraft world used in the experiment.
 
-## How to Use the World
+## How to Use
 
 If you'd like to test the activity yourself:
 
