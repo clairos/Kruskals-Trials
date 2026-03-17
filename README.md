@@ -5,13 +5,13 @@
 Authors: Ana Clara Brusamarello Barbosa and Andrei de Almeida Sampaio Braga
 
 #### Abstract.
-**Introduction:** Teaching highly abstract concepts in computer science remains a significant challenge, particularly when considering subjects such as graph theory, which demands strong logical reasoning and concept visualization skills.
-These difficulties are intensified for students diagnosed with Attention Deficit Hyperactivity Disorder (ADHD), who often struggle with traditional, linear and minimally interactive instructional approaches.
-**Objective:** This study aims to investigate the impact of an activity implemented in Minecraft on teaching and learning Kruskal's algorithm, focusing especially on students with ADHD.
-**Methodoloy or Steps:** The activity was designed following the methodology proposed by Honda _et al._ (2022), which structures the development process into the stages of conception, ludification, and evaluation.
-Learning outcomes were assessed using an adapted version of the evaluation model created by Savi _et al._ (2010), covering dimensions such as motivation, user experience, and knowledge acquisition.
-**Results:** The results show high levels of engagement and positive learning outcomes for both ADHD and neurotypical participants, with the ADHD group achieving especially strong results across all dimensions.
-These findings suggest that Minecraft's interactive and visually structured environment effectively supports the comprehension of abstract graph concepts, making it a promising and inclusive tool for teaching complex algorithms.
+**Introduction:** Teaching abstract concepts in computer science remains challenging, particularly in graph theory, which requires strong logical reasoning and concept visualization.
+These difficulties are intensified for students with Attention Deficit Hyperactivity Disorder (ADHD), who struggle with traditional, linear, and minimally interactive instructions.
+**Objective:** This study investigates the impact of a Minecraft-based activity on teaching Kruskal's algorithm, focusing especially on students with ADHD.
+**Methodology:** The activity's design followed the pedagogical methodology for serious games proposed by Honda _et al._ (2022).
+Learning outcomes were assessed using an adapted version of the evaluation model by Savi _et al._ (2010), covering motivation, user experience, and knowledge acquisition.
+**Results:** Results indicate high engagement and positive learning outcomes for both ADHD and neurotypical participants, with the ADHD group achieving particularly strong results.
+These findings suggest that Minecraft's interactive and visually structured environment supports understanding of abstract graph concepts, making it a promising and inclusive tool for teaching complex algorithms.
 
 ---
 
