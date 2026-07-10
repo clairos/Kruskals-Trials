@@ -2,7 +2,7 @@
 
 ## Using Minecraft as a Tool for Teaching Graph Theory to Students with ADHD
 
-Authors: XXXX-1 and XXXX-2
+Authors: Ana Clara Brusamarello Barbosa and Andrei de Almeida Sampaio Braga
 
 #### Abstract.
 **Introduction:** Teaching abstract concepts in computer science remains challenging, particularly in graph theory, which requires strong logical reasoning and concept visualization.
@@ -36,4 +36,4 @@ For readers who prefer to observe the activity without running the world locally
 
 ## Contact
 
-If you have any questions or require further clarification, please feel free to contact me via email at [XXXX-3@gmail.com].
+If you have any questions or require further clarification, please feel free to contact me via email at [aclarabrusa@gmail.com](mailto:aclarabrusa@gmail.com).
